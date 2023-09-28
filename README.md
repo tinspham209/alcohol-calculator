@@ -13,7 +13,7 @@
 
 ### Deploy
 
-http://donongdo.tinspham.info/
+https://alcohol-calculator.tinspham.dev/
 
 ### Tech-Stack
 
